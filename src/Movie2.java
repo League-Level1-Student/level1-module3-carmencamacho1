@@ -6,6 +6,6 @@ public static void main(String[] args) {
 	Movie dory = new Movie("Finding Dory", 3);
 	Movie spray = new Movie("Hairspray", 4);
 	Movie tales = new Movie("Veggie Tales", 1);
-	
+	String a = fault.getTicketPrice();
 }
 }
