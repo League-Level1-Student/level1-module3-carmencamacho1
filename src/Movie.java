@@ -6,8 +6,7 @@
 
 
 public class Movie implements Comparable<Movie> {
-Movie fault = new Movie("The Fault in out Stars", 4);
-Movie panther = new Movie("Black Panther", 5);
+
 	private String title;
 	private int stars;
 
