@@ -1,4 +1,3 @@
-/BookOfIllusions.class
 /Recipes.html
 /creepy-noise.wav
 /extra/
@@ -6,6 +5,7 @@
 /gridworld.jar
 /jeopardy.wav
 /moo.wav
+/BookOfIllusions.class
 /CowTimer.class
 /FortuneTeller.class
 /Jeopardy.class
@@ -14,3 +14,11 @@
 /Movie2.class
 /NetflixQueue.class
 /SimonSays.class
+/computer_key_Arrow_Right.png
+/computer_key_Arrow_Left_T.png
+/computer_key_Arrow_Down.png
+/computer_key_Arrow_Up.png
+/down.png
+/up.png
+/right.png
+/left.png

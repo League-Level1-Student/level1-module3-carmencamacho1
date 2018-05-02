@@ -17,6 +17,8 @@ public static void main(String[] args) {
 net.printMovies();
 Movie b = net.getBestMovie();
 System.out.println("The best movie is " + b);
+Movie c = net.getMovie(2);
+System.out.println("The second best movie is " + c);
 
 	}
 }
